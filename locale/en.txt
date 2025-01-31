@@ -1,0 +1,282 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_8E9E485F_B790_563E_41D1_20786B0939F4.source = https://web.facebook.com/FourSeasonsHotelSingapore/?_rdc=1&_rdr#
+LinkBehaviour_A2F617C2_BA13_C8B0_41E3_CBB53C129384.source = https://web.facebook.com/FourSeasonsHotelSingapore/?_rdc=1&_rdr#
+LinkBehaviour_A1E33C86_BA10_58B3_41D3_784CC577E6DE.source = https://web.facebook.com/FourSeasonsHotelSingapore/?_rdc=1&_rdr#
+LinkBehaviour_A2F9C7C3_BA13_C8B0_41E4_997DC74E16D1.source = https://www.fourseasons.com/singapore/
+LinkBehaviour_82046C73_B791_CE06_41DD_E4504E754188.source = https://www.fourseasons.com/singapore/
+LinkBehaviour_A1E25C86_BA10_58B3_41DC_B8F66E5241F5.source = https://www.fourseasons.com/singapore/
+LinkBehaviour_81BCC6C2_B790_5A06_41D2_533F4EBF9385.source = https://www.instagram.com/fssingapore/#
+LinkBehaviour_A1E30C84_BA10_58B0_41BA_D71FCC58DE54.source = https://www.instagram.com/fssingapore/#
+LinkBehaviour_A2F647C2_BA13_C8B0_41D3_78B98716D9A1.source = https://www.instagram.com/fssingapore/#
+LinkBehaviour_A2F677C1_BA13_C8B0_41B5_C127A27B03E8.source = https://www.youtube.com/fourseasons
+LinkBehaviour_8F878547_B790_3E0E_41E3_71EEB2BC4E32.source = https://www.youtube.com/fourseasons
+LinkBehaviour_A1E3EC84_BA10_58B0_41DF_53DA19FAAC88.source = https://www.youtube.com/fourseasons
+
+## Media
+
+### Title
+panorama_85147A64_9956_E727_41D8_C68FC1CE649D.label = KT. Lt 1 Rumah A - Final ed
+panorama_637D7F72_9B4A_3D22_41D0_6DC170ACA0A3.label = KT. Master Bedroom Final ed
+panorama_8AB7E026_9956_2322_41DE_2F9134E236D9.label = KT. Master Bedroom Final ed
+panorama_8AB5D5F0_9956_2D3E_41D2_F6361451222D.label = Living Room Final_1
+panorama_8AB5FA3C_9956_2727_41A7_6AB77E085F8E.label = Lt. 2 Tangga Finish_1
+panorama_8AB54F73_9956_3D22_41D2_0A483C80F73D.label = Master Bathroom Finish_1
+
+## Skin
+
+### Button
+Button_8CF9EF5D_93E1_216B_41E0_025FDE77638E_mobile.label = 1. 1200 Induction tilt-able stove 4
+Button_8CF9EF5D_93E1_216B_41E0_025FDE77638E.label = 1. 1200 Induction tilt-able stove 4
+Button_BBCA0051_9427_3F7B_41A3_2A28A910D17B.label = 10. Holding Cabinet 4
+Button_BBCA0051_9427_3F7B_41A3_2A28A910D17B_mobile.label = 10. Holding Cabinet 4
+Button_BBACFEEC_9427_2328_41DA_1C058F20C8AF.label = 11. 50KG Rice Washer 2
+Button_BBACFEEC_9427_2328_41DA_1C058F20C8AF_mobile.label = 11. 50KG Rice Washer 2
+Button_BA3620DE_9426_FF69_41C8_010530EC4FCF_mobile.label = 12. Vegetable Cutter 1
+Button_BA3620DE_9426_FF69_41C8_010530EC4FCF.label = 12. Vegetable Cutter 1
+Button_A759844A_9422_E768_41C6_7EB61AC9A5C6.label = 13. Potato Peeler 1
+Button_A759844A_9422_E768_41C6_7EB61AC9A5C6_mobile.label = 13. Potato Peeler 1
+Button_A6ADEC90_9423_27F8_41D6_45DCC568EEB0.label = 14. Water Heater(90L) 1
+Button_A6ADEC90_9423_27F8_41D6_45DCC568EEB0_mobile.label = 14. Water Heater(90L) 1
+Button_A5EF44D5_9423_277B_41C8_3242761CD3A8.label = 15. Four Door Refrigerated refrigerator 1
+Button_A5EF44D5_9423_277B_41C8_3242761CD3A8_mobile.label = 15. Four Door Refrigerated refrigerator 1
+Button_A8620DC4_9421_2159_41B9_53B1B080FEFC.label = 16. Smoke smoke exhaust hood 1
+Button_A8620DC4_9421_2159_41B9_53B1B080FEFC_mobile.label = 16. Smoke smoke exhaust hood 1
+Button_8CE61F5D_93E1_216B_41CF_87D6FCDD0895.label = 2. Large oil-water separation fryer-electric 1
+Button_8CE61F5D_93E1_216B_41CF_87D6FCDD0895_mobile.label = 2. Large oil-water separation fryer-electric 1
+Button_8CE63F5D_93E1_216B_41C2_6329A4337E4C_mobile.label = 3. Double door steamer-Electric 3
+Button_8CE63F5D_93E1_216B_41C2_6329A4337E4C.label = 3. Double door steamer-Electric 3
+Button_8CE65F5D_93E1_216B_41CB_39E5DCEC4EDA.label = 4. Double Sink 2
+Button_8CE65F5D_93E1_216B_41CB_39E5DCEC4EDA_mobile.label = 4. Double Sink 2
+Button_8CE67F5D_93E1_216B_41D9_870F52F4E799_mobile.label = 5. Double Layered Workbench 5
+Button_8CE67F5D_93E1_216B_41D9_870F52F4E799.label = 5. Double Layered Workbench 5
+Button_8CE69F5D_93E1_216B_41D0_8448BF4A7D0B.label = 6. Double Layered Shelf 3
+Button_8CE69F5D_93E1_216B_41D0_8448BF4A7D0B_mobile.label = 6. Double Layered Shelf 3
+Button_BF3E3D7A_9421_6128_41C4_3AD924D97D04.label = 7. Double Layered Movable Workbench 4
+Button_BF3E3D7A_9421_6128_41C4_3AD924D97D04_mobile.label = 7. Double Layered Movable Workbench 4
+Button_BA87802E_9427_FF28_41DA_0082218A71DE.label = 8+ Holding and Defrosting Trolley 4
+Button_BA87802E_9427_FF28_41DA_0082218A71DE_mobile.label = 8+ Holding and Defrosting Trolley 4
+Button_A42E4B11_9427_62FB_41C7_F238D7E830D2.label = 8. Four Layer Shelves 7
+Button_A42E4B11_9427_62FB_41C7_F238D7E830D2_mobile.label = 8. Four Layer Shelves 7
+Button_BBE961CF_9427_2167_41D9_284391C800BA.label = 9. GN Pans Trolley 4
+Button_BBE961CF_9427_2167_41D9_284391C800BA_mobile.label = 9. GN Pans Trolley 4
+Button_A2F557BB_BA13_C8D0_41AE_1F56349E5AA5_mobile.label = ACCOMODATIONS
+Button_A2CED7A0_BA13_C8F0_41A4_493B059DA9C6_mobile.label = ACCOMODATIONS
+Button_AFEE4310_B70F_ED58_41D3_B754ADDC42A1.label = ACCOMODATIONS
+Button_AE2BFAB8_B648_C50C_41CD_E691B1756FEA.label = ACCOMODATIONS
+Button_A2F557BB_BA13_C8D0_41AE_1F56349E5AA5.label = ACCOMODATIONS
+Button_A2CED7A0_BA13_C8F0_41A4_493B059DA9C6.label = ACCOMODATIONS
+Button_A2CE17A1_BA13_C8F0_41E6_847A6E135836_mobile.label = AMBASADOR ONE-BEDROOM SUITE
+Button_ADD0B29F_B704_EF47_41D4_F0C35FE6ED78.label = AMBASADOR ONE-BEDROOM SUITE
+Button_A2CE17A1_BA13_C8F0_41E6_847A6E135836.label = AMBASADOR ONE-BEDROOM SUITE
+Button_A2C8C79E_BA13_C8D0_41E0_3531561A6358.label = BOULEVARD ROOM
+Button_AA1C2A9F_B70B_9F47_41D4_3837DD4639A8.label = BOULEVARD ROOM
+Button_A2C8C79E_BA13_C8D0_41E0_3531561A6358_mobile.label = BOULEVARD ROOM
+Button_A2F117A5_BA13_C8F0_41C5_1624D0E494E0_mobile.label = CLUB BOARDROOM
+Button_9926F630_B64F_4D1C_41DE_327244D5957A.label = CLUB BOARDROOM
+Button_A2F117A5_BA13_C8F0_41C5_1624D0E494E0.label = CLUB BOARDROOM
+Button_A2CE37A3_BA13_C8F0_41D7_58F94B90655E_mobile.label = CRESCENT BALL ROOM
+Button_A2CE37A3_BA13_C8F0_41D7_58F94B90655E.label = CRESCENT BALL ROOM
+Button_98415C60_B649_FD3C_41E1_39908824DEA1.label = CRESCENT BALL ROOM
+Button_A2F187A2_BA13_C8F0_41E5_B133EBD2D5A2_mobile.label = DELUXE ROOM
+Button_A2F187A2_BA13_C8F0_41E5_B133EBD2D5A2.label = DELUXE ROOM
+Button_AA28FC70_B70D_9BD8_41D5_6D2F1F61DE05.label = DELUXE ROOM
+Button_A2F4B7BC_BA13_C8D7_41E5_E10D83F0639D.label = DINING
+Button_A2F4B7BC_BA13_C8D7_41E5_E10D83F0639D_mobile.label = DINING
+Button_A2F1B7A4_BA13_C8F0_41DB_0D65385D5BBD.label = DINING
+Button_A2F1B7A4_BA13_C8F0_41DB_0D65385D5BBD_mobile.label = DINING
+Button_AF807EA4_B649_3D04_41D4_0166E2F3F66B.label = DINING
+Button_97A8848C_B70C_AB48_41DC_FEA7274B6762.label = DINING
+Button_9FC36C01_B657_7CFC_41B5_63AE63D8AB11.label = EXECUTIVE CLUB
+Button_A2F2D7A9_BA13_C8F0_41E3_3852F212B1AA.label = EXECUTIVE CLUB
+Button_A2F2D7A9_BA13_C8F0_41E3_3852F212B1AA_mobile.label = EXECUTIVE CLUB
+Button_A2F177A2_BA13_C8F0_41C7_0B2EE2B6C239_mobile.label = EXECUTIVE SUITE
+Button_A2F177A2_BA13_C8F0_41C7_0B2EE2B6C239.label = EXECUTIVE SUITE
+Button_AD4BD340_B705_6D38_41E6_3A0ABCC8145B.label = EXECUTIVE SUITE
+Button_A2F157A5_BA13_C8F0_41E5_CE322509FE9C.label = FAMILY POOL
+Button_9FE4FA11_B649_C51C_41E2_C640EE166245.label = FAMILY POOL
+Button_A2F157A5_BA13_C8F0_41E5_CE322509FE9C_mobile.label = FAMILY POOL
+Button_A2F377A8_BA13_C8F0_41E1_8F23D4CC9F55.label = FITNESS CENTER
+Button_9C90DEC0_B649_5D7C_41B7_0D2E2EFC3086.label = FITNESS CENTER
+Button_A2F377A8_BA13_C8F0_41E1_8F23D4CC9F55_mobile.label = FITNESS CENTER
+Button_9B836710_B64B_4B1C_41C8_6325AA758125.label = FOUR SEASON BALL ROOM
+Button_A2F137A2_BA13_C8F0_41CC_7A3ABE2010B9.label = FOUR SEASON BALL ROOM
+Button_A2F137A2_BA13_C8F0_41CC_7A3ABE2010B9_mobile.label = FOUR SEASON BALL ROOM
+Button_A2F0F7A5_BA13_C8F0_41B5_CEF359E137CC_mobile.label = FOUR SEASON SPA
+Button_A2F0F7A5_BA13_C8F0_41B5_CEF359E137CC.label = FOUR SEASON SPA
+Button_9F0E22B1_B648_C51C_41C8_BB82A64E039C.label = FOUR SEASON SPA
+Button_A2F1E7A1_BA13_C8F0_41D1_4DC71D3DD806.label = GOVERNOR ONE-BEDROOM SUITE
+Button_AA0CF30F_B707_ED48_41E4_4E9526898440.label = GOVERNOR ONE-BEDROOM SUITE
+Button_A2F1E7A1_BA13_C8F0_41D1_4DC71D3DD806_mobile.label = GOVERNOR ONE-BEDROOM SUITE
+Button_A2F097A5_BA13_C8F0_41C2_62CC33C5DFE7.label = JIANG NAN CHUN
+Button_A2F097A5_BA13_C8F0_41C2_62CC33C5DFE7_mobile.label = JIANG NAN CHUN
+Button_9F70CDD1_B659_5F1C_41DB_9C096A9E32E9.label = JIANG NAN CHUN
+Button_A2F297AA_BA13_C8F0_41E1_A8DC7AA6D0F7_mobile.label = LAP AND QUITE POOL
+Button_9EF625B1_B649_4F1C_41E0_53CF5A19B525.label = LAP AND QUITE POOL
+Button_A2F297AA_BA13_C8F0_41E1_A8DC7AA6D0F7.label = LAP AND QUITE POOL
+Button_A017C6A9_B0E7_3DFA_41C5_96AA152E3562.label = LEVEL 19 CORRIDOR
+Button_A2CE47A1_BA13_C8F0_41A2_A8F3C8831527_mobile.label = LEVEL 19 CORRIDOR
+Button_A2CE47A1_BA13_C8F0_41A2_A8F3C8831527.label = LEVEL 19 CORRIDOR
+Button_8CE63F5D_93E1_216B_41C2_6329A4337E4C.pressedLabel = Location
+Button_8CE63F5D_93E1_216B_41C2_6329A4337E4C_mobile.pressedLabel = Location
+Button_A053DC66_AF39_FD30_41B3_C5B80704B9C1.label = MEETINGS & EVENTS
+Button_A2F507BC_BA13_C8D7_41D7_EB61A83DA62A.label = MEETINGS & EVENTS
+Button_A2F2F7A8_BA13_C8F0_41DF_028AF82E0F2E.label = MEETINGS & EVENTS
+Button_A2F507BC_BA13_C8D7_41D7_EB61A83DA62A_mobile.label = MEETINGS & EVENTS
+Button_A2F2F7A8_BA13_C8F0_41DF_028AF82E0F2E_mobile.label = MEETINGS & EVENTS
+Button_AF053955_B64B_4704_41E3_B04E06A772BE.label = MEETINGS & EVENTS
+Button_A2F3C7A7_BA13_C8F0_41E0_7D9F43589542_mobile.label = NOBU SINGAPORE
+Button_9CC91F92_B659_5B1C_41E3_FD191C0F9EA0.label = NOBU SINGAPORE
+Button_A2F3C7A7_BA13_C8F0_41E0_7D9F43589542.label = NOBU SINGAPORE
+Button_A2CE67A1_BA13_C8F0_41D7_434A270E76CA.label = ONE-BEDROOM CLUB SUITE
+Button_AA0FFA7F_B705_9FC7_41DB_DF5BFDB3F4F8.label = ONE-BEDROOM CLUB SUITE
+Button_A2CE67A1_BA13_C8F0_41D7_434A270E76CA_mobile.label = ONE-BEDROOM CLUB SUITE
+Button_9E583727_B659_4B04_41C2_8C7BAFAC515B.label = ONE-NINETY BAR
+Button_A2F197A4_BA13_C8F0_41C8_0BDC2C2FB4F5_mobile.label = ONE-NINETY BAR
+Button_A2F197A4_BA13_C8F0_41C8_0BDC2C2FB4F5.label = ONE-NINETY BAR
+Button_A2F017A7_BA13_C8F0_41B8_51BA77865F30.label = ONE-NINETY RESTAURANT
+Button_A2F017A7_BA13_C8F0_41B8_51BA77865F30_mobile.label = ONE-NINETY RESTAURANT
+Button_91108701_B659_4CFC_41B9_B3B6030DD4C7.label = ONE-NINETY RESTAURANT
+Button_9F465E91_B65B_5D1C_41E3_16E9D8D1E3FE.label = POOL HOUSE
+Button_A2F1A7A4_BA13_C8F0_41E6_ED0E21070A8F_mobile.label = POOL HOUSE
+Button_A2F1A7A4_BA13_C8F0_41E6_ED0E21070A8F.label = POOL HOUSE
+Button_A2CEB7A0_BA13_C8F0_41D9_477883F3A00F_mobile.label = PREMIER ROOM
+Button_A2CEB7A0_BA13_C8F0_41D9_477883F3A00F.label = PREMIER ROOM
+Button_AA9E25E0_B704_94F8_41BC_629CB8ED3B52.label = PREMIER ROOM
+Button_AA768C54_B705_FBD9_41D5_4CCCA0180263.label = PRESIDENTIAL SUITE
+Button_A2C8A79E_BA13_C8D0_41DD_2E12119E2111_mobile.label = PRESIDENTIAL SUITE
+Button_A2C8A79E_BA13_C8D0_41DD_2E12119E2111.label = PRESIDENTIAL SUITE
+Button_A2F1C7A1_BA13_C8F0_41C7_F06727C91F3F_mobile.label = ROYAL ONE-BEDROOM SUITE
+Button_A2F1C7A1_BA13_C8F0_41C7_F06727C91F3F.label = ROYAL ONE-BEDROOM SUITE
+Button_AD9C527F_B707_6FC8_41DD_5F1EF246D2D1.label = ROYAL ONE-BEDROOM SUITE
+Button_A2F327A8_BA13_C8F0_41D0_9BFA024BF7F7_mobile.label = SAUNA AND STEAM ROOM
+Button_A2F327A8_BA13_C8F0_41D0_9BFA024BF7F7.label = SAUNA AND STEAM ROOM
+Button_9FC1FB61_B657_7B3C_41D3_E6783167D192.label = SAUNA AND STEAM ROOM
+Button_A2F037A7_BA13_C8F0_41D8_837AC35699F6_mobile.label = SERVICES & AMENITIES
+Button_A2F037A7_BA13_C8F0_41D8_837AC35699F6.label = SERVICES & AMENITIES
+Button_A2F4E7BC_BA13_C8D7_41E6_7CFC569DCBC7.label = SERVICES & AMENITIES
+Button_A2F4E7BC_BA13_C8D7_41E6_7CFC569DCBC7_mobile.label = SERVICES & AMENITIES
+Button_AFFEF905_B648_C704_41E6_2C98CBBA3A2A.label = SERVICES & AMENITIES
+Button_97D3F9CC_B70C_BCC9_41E2_9FD739BDA5FB.label = SERVICES & AMENITIES
+Button_A2F0A7A3_BA13_C8F0_41DC_726ED699BA0D_mobile.label = TAMASEK I
+Button_8671F4DF_B648_CD04_41E3_4A065533A338.label = TAMASEK I
+Button_A2F0A7A3_BA13_C8F0_41DC_726ED699BA0D.label = TAMASEK I
+Button_A2F0A7A5_BA13_C8F0_41D3_E0D84BFE04E0.label = TAMASEK II
+Button_A2F0A7A5_BA13_C8F0_41D3_E0D84BFE04E0_mobile.label = TAMASEK II
+Button_98DBEF10_B64F_3B1C_41A9_4BA2212274F0.label = TAMASEK II
+Button_A2F0C7A3_BA13_C8F0_41D6_09C130BC21A6_mobile.label = TAMASEK III
+Button_98EC1150_B64F_471C_41E3_4A804C8156CE.label = TAMASEK III
+Button_A2F0C7A3_BA13_C8F0_41D6_09C130BC21A6.label = TAMASEK III
+Button_A2CEE7A0_BA13_C8F0_41CE_1CF9585AFF12_mobile.label = TWO-BEDROOM CLUB SUITE
+Button_A2CEE7A0_BA13_C8F0_41CE_1CF9585AFF12.label = TWO-BEDROOM CLUB SUITE
+Button_AA416F70_B705_75D8_415E_16B2D1F38BE0.label = TWO-BEDROOM CLUB SUITE
+Button_A2F2A7A9_BA13_C8F0_41E2_3414B08BBE10.label = WINDOWS EAST
+Button_A2F2A7A9_BA13_C8F0_41E2_3414B08BBE10_mobile.label = WINDOWS EAST
+Button_9BC87580_B648_CFFC_41C4_796BA6478206.label = WINDOWS EAST
+Button_A2F047A7_BA13_C8F0_41A5_1E41FEFD16F2_mobile.label = WINDOWS WEST
+Button_8678CD90_B64F_DF1C_41BA_4D9451A1BA7A.label = WINDOWS WEST
+Button_A2F047A7_BA13_C8F0_41A5_1E41FEFD16F2.label = WINDOWS WEST
+
+### Image
+Image_0E1FA7B6_9AFA_ED23_41B2_B1808F94B76C.url = skin/Image_0E1FA7B6_9AFA_ED23_41B2_B1808F94B76C_en.png
+Image_15EDA969_9ACA_252E_41D9_4B8309BCF193.url = skin/Image_15EDA969_9ACA_252E_41D9_4B8309BCF193_en.png
+Image_20A3908F_9AD6_23E1_41D2_4EC199E7CA73.url = skin/Image_20A3908F_9AD6_23E1_41D2_4EC199E7CA73_en.png
+Image_21DFFD72_9ADA_5D22_419E_F1F67D6D638A.url = skin/Image_21DFFD72_9ADA_5D22_419E_F1F67D6D638A_en.png
+Image_2C10618D_9AF6_25E6_41C5_2FB8A7BCC1E5.url = skin/Image_2C10618D_9AF6_25E6_41C5_2FB8A7BCC1E5_en.png
+Image_30CBB766_9ADE_2D23_41D9_9F9BD6C090F6.url = skin/Image_30CBB766_9ADE_2D23_41D9_9F9BD6C090F6_en.png
+Image_348927F9_9AF6_ED2E_41DE_C5CE8F25C2C0.url = skin/Image_348927F9_9AF6_ED2E_41DE_C5CE8F25C2C0_en.png
+Image_35605573_9AD6_2D21_41DF_49CCD93A450A.url = skin/Image_35605573_9AD6_2D21_41DF_49CCD93A450A_en.png
+Image_39F3B177_9AF9_E521_41DD_D774AE61DE61.url = skin/Image_39F3B177_9AF9_E521_41DD_D774AE61DE61_en.png
+Image_4AFA7919_9AB6_E2E1_41D9_3D5FE279F96D.url = skin/Image_4AFA7919_9AB6_E2E1_41D9_3D5FE279F96D_en.png
+Image_4DC164B0_9ABA_233F_41D9_E358C9541C63.url = skin/Image_4DC164B0_9ABA_233F_41D9_E358C9541C63_en.png
+Image_5BAF8D0E_9ACA_22E2_41DF_CF83AB355BD7.url = skin/Image_5BAF8D0E_9ACA_22E2_41DF_CF83AB355BD7_en.png
+Image_80C347A7_B79F_DA0E_41E1_940558764CB5.url = skin/Image_80C347A7_B79F_DA0E_41E1_940558764CB5_en.png
+Image_81BA56C1_B790_5A02_41E4_DDADE07E4D11.url = skin/Image_81BA56C1_B790_5A02_41E4_DDADE07E4D11_en.png
+Image_847DDE71_B790_4A02_41CD_298B6B6F086F.url = skin/Image_847DDE71_B790_4A02_41CD_298B6B6F086F_en.png
+Image_8CE6CF5D_93E1_216B_41D6_E2A8D5233523.url = skin/Image_8CE6CF5D_93E1_216B_41D6_E2A8D5233523_en.jpg
+Image_8CE6CF5D_93E1_216B_41D6_E2A8D5233523_mobile.url = skin/Image_8CE6CF5D_93E1_216B_41D6_E2A8D5233523_mobile_en.jpg
+Image_8D955C3E_B791_CE7E_41E0_533B8432658D.url = skin/Image_8D955C3E_B791_CE7E_41E0_533B8432658D_en.png
+Image_8E9F285F_B790_563E_41E1_3D9CE3AC37D3.url = skin/Image_8E9F285F_B790_563E_41E1_3D9CE3AC37D3_en.png
+Image_938F40CB_B7B0_3606_41DE_A723A8CFC045.url = skin/Image_938F40CB_B7B0_3606_41DE_A723A8CFC045_en.png
+Image_94198F11_B7B3_CA02_41A5_33E7C31DD239.url = skin/Image_94198F11_B7B3_CA02_41A5_33E7C31DD239_en.png
+Image_9428962B_B7B3_DA06_41E4_6147157B03A1.url = skin/Image_9428962B_B7B3_DA06_41E4_6147157B03A1_en.png
+Image_955ABC86_B7B0_4E0E_41B0_EEE3BC6C6C97.url = skin/Image_955ABC86_B7B0_4E0E_41B0_EEE3BC6C6C97_en.png
+Image_9B8F1285_B71D_AF38_41D6_7746A4F9EEC3.url = skin/Image_9B8F1285_B71D_AF38_41D6_7746A4F9EEC3_en.png
+Image_9E7AA7E6_9B4A_6D23_41E0_2496DC2FA3D8.url = skin/Image_9E7AA7E6_9B4A_6D23_41E0_2496DC2FA3D8_en.png
+Image_9E7AA7E6_9B4A_6D23_41E0_2496DC2FA3D8_mobile.url = skin/Image_9E7AA7E6_9B4A_6D23_41E0_2496DC2FA3D8_mobile_en.png
+Image_A2C5479C_BA13_C8D0_41E1_2AE155DE2252.url = skin/Image_A2C5479C_BA13_C8D0_41E1_2AE155DE2252_en.png
+Image_A2C5479C_BA13_C8D0_41E1_2AE155DE2252_mobile.url = skin/Image_A2C5479C_BA13_C8D0_41E1_2AE155DE2252_mobile_en.png
+Image_A2C5A79C_BA13_C8D0_41E2_EF2287804D13.url = skin/Image_A2C5A79C_BA13_C8D0_41E2_EF2287804D13_en.png
+Image_A2C5A79C_BA13_C8D0_41E2_EF2287804D13_mobile.url = skin/Image_A2C5A79C_BA13_C8D0_41E2_EF2287804D13_mobile_en.png
+Image_A2C9079E_BA13_C8D0_41D4_C647787ACC8C.url = skin/Image_A2C9079E_BA13_C8D0_41D4_C647787ACC8C_en.png
+Image_A2C9079E_BA13_C8D0_41D4_C647787ACC8C_mobile.url = skin/Image_A2C9079E_BA13_C8D0_41D4_C647787ACC8C_mobile_en.png
+Image_A2C9679E_BA13_C8D0_41DC_FD953397D7C6.url = skin/Image_A2C9679E_BA13_C8D0_41DC_FD953397D7C6_en.png
+Image_A2C9679E_BA13_C8D0_41DC_FD953397D7C6_mobile.url = skin/Image_A2C9679E_BA13_C8D0_41DC_FD953397D7C6_mobile_en.png
+Image_A2C9B79E_BA13_C8D0_41E4_08F3BAD52BE8.url = skin/Image_A2C9B79E_BA13_C8D0_41E4_08F3BAD52BE8_en.png
+Image_A2C9B79E_BA13_C8D0_41E4_08F3BAD52BE8_mobile.url = skin/Image_A2C9B79E_BA13_C8D0_41E4_08F3BAD52BE8_mobile_en.png
+Image_A2F1C7A4_BA13_C8F0_41DE_7576F7F27FD4.url = skin/Image_A2F1C7A4_BA13_C8F0_41DE_7576F7F27FD4_en.png
+Image_A2F1C7A4_BA13_C8F0_41DE_7576F7F27FD4_mobile.url = skin/Image_A2F1C7A4_BA13_C8F0_41DE_7576F7F27FD4_mobile_en.png
+Image_A2F207B5_BA13_C8D1_41C3_8C1807844C33.url = skin/Image_A2F207B5_BA13_C8D1_41C3_8C1807844C33_en.png
+Image_A2F207B5_BA13_C8D1_41C3_8C1807844C33_mobile.url = skin/Image_A2F207B5_BA13_C8D1_41C3_8C1807844C33_mobile_en.png
+Image_A2F257AA_BA13_C8F0_41D2_599C3B04C807.url = skin/Image_A2F257AA_BA13_C8F0_41D2_599C3B04C807_en.png
+Image_A2F257AA_BA13_C8F0_41D2_599C3B04C807_mobile.url = skin/Image_A2F257AA_BA13_C8F0_41D2_599C3B04C807_mobile_en.png
+Image_A2F257B5_BA13_C8D1_41DD_43B67BA859A5.url = skin/Image_A2F257B5_BA13_C8D1_41DD_43B67BA859A5_en.png
+Image_A2F257B5_BA13_C8D1_41DD_43B67BA859A5_mobile.url = skin/Image_A2F257B5_BA13_C8D1_41DD_43B67BA859A5_mobile_en.png
+Image_A2F397A7_BA13_C8F0_41D1_8B765110208D.url = skin/Image_A2F397A7_BA13_C8F0_41D1_8B765110208D_en.png
+Image_A2F397A7_BA13_C8F0_41D1_8B765110208D_mobile.url = skin/Image_A2F397A7_BA13_C8F0_41D1_8B765110208D_mobile_en.png
+Image_A2F427BD_BA13_C8D0_41CB_B44192817755.url = skin/Image_A2F427BD_BA13_C8D0_41CB_B44192817755_en.png
+Image_A2F427BD_BA13_C8D0_41CB_B44192817755_mobile.url = skin/Image_A2F427BD_BA13_C8D0_41CB_B44192817755_mobile_en.png
+Image_A2F457BD_BA13_C8D0_41D5_80886D1D1A74.url = skin/Image_A2F457BD_BA13_C8D0_41D5_80886D1D1A74_en.png
+Image_A2F457BD_BA13_C8D0_41D5_80886D1D1A74_mobile.url = skin/Image_A2F457BD_BA13_C8D0_41D5_80886D1D1A74_mobile_en.png
+Image_A2F477BC_BA13_C8D7_41D9_F4800F830312.url = skin/Image_A2F477BC_BA13_C8D7_41D9_F4800F830312_en.png
+Image_A2F477BC_BA13_C8D7_41D9_F4800F830312_mobile.url = skin/Image_A2F477BC_BA13_C8D7_41D9_F4800F830312_mobile_en.png
+Image_A2F507AF_BA13_C8F0_41DE_2678835A48F2.url = skin/Image_A2F507AF_BA13_C8F0_41DE_2678835A48F2_en.png
+Image_A2F507AF_BA13_C8F0_41DE_2678835A48F2_mobile.url = skin/Image_A2F507AF_BA13_C8F0_41DE_2678835A48F2_mobile_en.png
+Image_A2F527AF_BA13_C8F0_41C7_49EF0B936D0A.url = skin/Image_A2F527AF_BA13_C8F0_41C7_49EF0B936D0A_en.png
+Image_A2F527AF_BA13_C8F0_41C7_49EF0B936D0A_mobile.url = skin/Image_A2F527AF_BA13_C8F0_41C7_49EF0B936D0A_mobile_en.png
+Image_A2F537AD_BA13_C8F0_41E4_CF38F9B54420.url = skin/Image_A2F537AD_BA13_C8F0_41E4_CF38F9B54420_en.png
+Image_A2F537AD_BA13_C8F0_41E4_CF38F9B54420_mobile.url = skin/Image_A2F537AD_BA13_C8F0_41E4_CF38F9B54420_mobile_en.png
+Image_A2F5B7BA_BA13_C8D0_41CA_61AC2798ECBA.url = skin/Image_A2F5B7BA_BA13_C8D0_41CA_61AC2798ECBA_en.png
+Image_A2F5B7BA_BA13_C8D0_41CA_61AC2798ECBA_mobile.url = skin/Image_A2F5B7BA_BA13_C8D0_41CA_61AC2798ECBA_mobile_en.png
+Image_A2F5D7BA_BA13_C8D0_41D7_FB712635437C.url = skin/Image_A2F5D7BA_BA13_C8D0_41D7_FB712635437C_en.png
+Image_A2F5D7BA_BA13_C8D0_41D7_FB712635437C_mobile.url = skin/Image_A2F5D7BA_BA13_C8D0_41D7_FB712635437C_mobile_en.png
+Image_A2F637C2_BA13_C8B0_41BA_22E0473EAF01.url = skin/Image_A2F637C2_BA13_C8B0_41BA_22E0473EAF01_en.png
+Image_A2F637C2_BA13_C8B0_41BA_22E0473EAF01_mobile.url = skin/Image_A2F637C2_BA13_C8B0_41BA_22E0473EAF01_mobile_en.png
+Image_A2F767C2_BA13_C8B0_41E2_58D4C13B2C0B.url = skin/Image_A2F767C2_BA13_C8B0_41E2_58D4C13B2C0B_en.png
+Image_A2F767C2_BA13_C8B0_41E2_58D4C13B2C0B_mobile.url = skin/Image_A2F767C2_BA13_C8B0_41E2_58D4C13B2C0B_mobile_en.png
+Image_A2F787C1_BA13_C8B0_41C7_19F8215C20FF.url = skin/Image_A2F787C1_BA13_C8B0_41C7_19F8215C20FF_en.png
+Image_A2F787C1_BA13_C8B0_41C7_19F8215C20FF_mobile.url = skin/Image_A2F787C1_BA13_C8B0_41C7_19F8215C20FF_mobile_en.png
+Image_A2F7A7C1_BA13_C8B0_41B6_052C5B5E4313.url = skin/Image_A2F7A7C1_BA13_C8B0_41B6_052C5B5E4313_en.png
+Image_A2F7A7C1_BA13_C8B0_41B6_052C5B5E4313_mobile.url = skin/Image_A2F7A7C1_BA13_C8B0_41B6_052C5B5E4313_mobile_en.png
+Image_A2F9F7C2_BA13_C8B0_41CF_29966774B061.url = skin/Image_A2F9F7C2_BA13_C8B0_41CF_29966774B061_en.png
+Image_A2F9F7C2_BA13_C8B0_41CF_29966774B061_mobile.url = skin/Image_A2F9F7C2_BA13_C8B0_41CF_29966774B061_mobile_en.png
+Image_CF0E9746_99D6_6D63_41AB_61941DFB51DD.url = skin/Image_CF0E9746_99D6_6D63_41AB_61941DFB51DD_en.png
+Image_CF0E9746_99D6_6D63_41AB_61941DFB51DD_mobile.url = skin/Image_CF0E9746_99D6_6D63_41AB_61941DFB51DD_mobile_en.png
+Image_D0E051CF_99DA_2561_41E2_1A8BD7BD3AB5.url = skin/Image_D0E051CF_99DA_2561_41E2_1A8BD7BD3AB5_en.png
+Image_D0E051CF_99DA_2561_41E2_1A8BD7BD3AB5_mobile.url = skin/Image_D0E051CF_99DA_2561_41E2_1A8BD7BD3AB5_mobile_en.png
+Image_EF65B1E7_9ACE_2521_41DA_EBEA7DF54237.url = skin/Image_EF65B1E7_9ACE_2521_41DA_EBEA7DF54237_en.png
+Image_F09ECBEE_9753_E74B_41C2_13DCE89A6DBD.url = skin/Image_F09ECBEE_9753_E74B_41C2_13DCE89A6DBD_en.png
+Image_F09ECBEE_9753_E74B_41C2_13DCE89A6DBD_mobile.url = skin/Image_F09ECBEE_9753_E74B_41C2_13DCE89A6DBD_mobile_en.png
+Image_F279BE42_9751_20BB_41D3_1D22A558501D.url = skin/Image_F279BE42_9751_20BB_41D3_1D22A558501D_en.png
+Image_F279BE42_9751_20BB_41D3_1D22A558501D_mobile.url = skin/Image_F279BE42_9751_20BB_41D3_1D22A558501D_mobile_en.png
+
+### Label
+Label_86C46D44_B704_9539_41D7_641D9C090D67.text = MENU
+Label_A2C9D79D_BA13_C8D0_41BA_DAEAAC6F3437.text = MENU
+Label_A2C9D79D_BA13_C8D0_41BA_DAEAAC6F3437_mobile.text = MENU
+
+### Multiline Text
+HTMLText_8CF9FF5E_93E1_2169_41C0_A905ACDF5680.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+HTMLText_C35DEBA0_D529_ED18_41E0_A11B09A27751.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:37px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0099ff;font-size:37px;"><B>Chair</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:22px;"><B>Subtitle</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:12px;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. </SPAN></SPAN></DIV></div>
+HTMLText_8CF9FF5E_93E1_2169_41C0_A905ACDF5680_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+HTMLText_C35DEBA0_D529_ED18_41E0_A11B09A27751_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:18.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0099ff;font-size:18.5px;"><B>Chair</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:11px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:11px;"><B>Subtitle</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:6px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:6px;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. </SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Four Seasons Hotel
